@@ -1,0 +1,1 @@
+ pytest -s -v --html=Mynextfilm\Reports\report.html Mynextfilm\TestCases\test_PRELOGINE.py  --browser chrome
