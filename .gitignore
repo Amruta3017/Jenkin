@@ -1,0 +1,10 @@
+# file: ~/.gitignore_global
+.idea
+.pytest_cache
+__pycache__
+/Logs/automation.log
+/Reports/*.html
+/Screenshots/*.png
+/Reports/assets/
+/TestCases/developing_tc.py
+/ConnectDatabase/check.py
